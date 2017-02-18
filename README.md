@@ -1,2 +1,3 @@
 # Senior-Project
-Main Folder
+This repository is used to effectively distribute code across the team for a senior design project
+
